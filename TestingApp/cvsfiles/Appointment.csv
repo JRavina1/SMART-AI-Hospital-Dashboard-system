@@ -1,0 +1,16 @@
+Appointment_ID,Patient_ID,Doctor_ID,Ward_ID,Appointment_Date,Duration,Status,Purpose,Room_Number,Remarks
+APT001,PID001,DOC001,WNID001,2024-03-01 10:00:00,60,Scheduled,Regular Checkup,Room 101,Please arrive 15 minutes early for paperwork.
+APT002,PID002,DOC002,WNID002,2024-03-02 11:30:00,45,Scheduled,Follow-up Consultation,Room 205,Bring any recent test results or medical records.
+APT003,PID003,DOC003,WNID003,2024-03-03 14:00:00,30,Scheduled,Treatment Plan Discussion,Room 306,Discussion about potential treatment options.
+APT004,PID004,DOC004,WNID004,2024-03-04 09:15:00,60,Scheduled,Diagnostic Test,Room 102,Prepare for fasting prior to the appointment.
+APT005,PID005,DOC005,WNID005,2024-03-05 16:45:00,45,Scheduled,Therapy Session,Room 203,Review progress since last session.
+APT006,PID006,DOC006,WNID006,2024-03-06 13:30:00,30,Scheduled,Routine Examination,Room 304,Update on any changes in health since last visit.
+APT007,PID007,DOC001,WNID001,2024-03-07 10:00:00,60,Scheduled,Regular Checkup,Room 101,Please arrive 15 minutes early for paperwork.
+APT008,PID008,DOC002,WNID002,2024-03-08 11:30:00,45,Scheduled,Follow-up Consultation,Room 205,Bring any recent test results or medical records.
+APT009,PID009,DOC003,WNID003,2024-03-09 14:00:00,30,Scheduled,Treatment Plan Discussion,Room 306,Discussion about potential treatment options.
+APT010,PID010,DOC004,WNID004,2024-03-10 09:15:00,60,Scheduled,Diagnostic Test,Room 102,Prepare for fasting prior to the appointment.
+APT011,PID011,DOC005,WNID005,2024-03-11 16:45:00,45,Scheduled,Therapy Session,Room 203,Review progress since last session.
+APT012,PID012,DOC006,WNID006,2024-03-12 13:30:00,30,Scheduled,Routine Examination,Room 304,Update on any changes in health since last visit.
+APT013,PID013,DOC001,WNID001,2024-03-13 10:00:00,60,Scheduled,Regular Checkup,Room 101,Please arrive 15 minutes early for paperwork.
+APT014,PID014,DOC002,WNID002,2024-03-14 11:30:00,45,Scheduled,Follow-up Consultation,Room 205,Bring any recent test results or medical records.
+APT015,PID015,DOC003,WNID003,2024-03-15 14:00:00,30,Scheduled,Treatment Plan Discussion,Room 306,Discussion about potential treatment options.

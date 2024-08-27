@@ -1,0 +1,296 @@
+[
+    {
+        "Department_ID": "DEPT001",
+        "Department_Name": "IT Department",
+        "Description": "Information Technology Department",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT002",
+        "Department_Name": "Radiology Department",
+        "Description": "Department specializing in medical imaging and diagnostics",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT003",
+        "Department_Name": "Cardiology Department",
+        "Description": "Department specializing in heart-related disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT004",
+        "Department_Name": "Neurology Department",
+        "Description": "Department specializing in nervous system disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT005",
+        "Department_Name": "Oncology Department",
+        "Description": "Department specializing in cancer treatment and research",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT006",
+        "Department_Name": "Emergency Medicine Department",
+        "Description": "Department providing emergency medical care",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT007",
+        "Department_Name": "Pediatrics Department",
+        "Description": "Department specializing in medical care for children",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT008",
+        "Department_Name": "Orthopedics Department",
+        "Description": "Department specializing in musculoskeletal disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT009",
+        "Department_Name": "Gastroenterology Department",
+        "Description": "Department specializing in digestive system disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT010",
+        "Department_Name": "Dermatology Department",
+        "Description": "Department specializing in skin disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT011",
+        "Department_Name": "Ophthalmology Department",
+        "Description": "Department specializing in eye disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT012",
+        "Department_Name": "Urology Department",
+        "Description": "Department specializing in urinary tract disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT013",
+        "Department_Name": "Psychiatry Department",
+        "Description": "Department specializing in mental health disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT014",
+        "Department_Name": "Obstetrics and Gynecology Department",
+        "Description": "Department specializing in women's",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT015",
+        "Department_Name": "Pulmonology Department",
+        "Description": "Department specializing in respiratory system disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT016",
+        "Department_Name": "Endocrinology Department",
+        "Description": "Department specializing in hormonal disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT017",
+        "Department_Name": "Hematology Department",
+        "Description": "Department specializing in blood disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT018",
+        "Department_Name": "Nephrology Department",
+        "Description": "Department specializing in kidney disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT019",
+        "Department_Name": "Infectious Diseases Department",
+        "Description": "Department specializing in infectious diseases and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT020",
+        "Department_Name": "Allergy and Immunology Department",
+        "Description": "Department specializing in allergies and immune system disorders",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT021",
+        "Department_Name": "Rheumatology Department",
+        "Description": "Department specializing in rheumatic diseases and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT022",
+        "Department_Name": "Pathology Department",
+        "Description": "Department specializing in the study of diseases and diagnoses",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT023",
+        "Department_Name": "Anesthesiology Department",
+        "Description": "Department specializing in pain management and anesthesia",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT024",
+        "Department_Name": "Radiology Department",
+        "Description": "Department specializing in medical imaging and diagnostics",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT025",
+        "Department_Name": "Nuclear Medicine Department",
+        "Description": "Department specializing in nuclear medicine imaging and therapies",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT026",
+        "Department_Name": "Pain Management Department",
+        "Description": "Department specializing in chronic pain management",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT027",
+        "Department_Name": "Physical Therapy Department",
+        "Description": "Department providing physical therapy and rehabilitation services",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT028",
+        "Department_Name": "Occupational Therapy Department",
+        "Description": "Department providing occupational therapy services",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT029",
+        "Department_Name": "Speech Therapy Department",
+        "Description": "Department providing speech therapy services",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT030",
+        "Department_Name": "Dietetics Department",
+        "Description": "Department specializing in nutrition and dietary planning",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT031",
+        "Department_Name": "Pharmacy Department",
+        "Description": "Department providing pharmacy services and medication management",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT032",
+        "Department_Name": "Medical Social Work Department",
+        "Description": "Department providing social work services to patients",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT033",
+        "Department_Name": "Case Management Department",
+        "Description": "Department providing case management and coordination of care",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT034",
+        "Department_Name": "Hospital Administration Department",
+        "Description": "Department responsible for hospital administration and management",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT035",
+        "Department_Name": "Quality Assurance Department",
+        "Description": "Department responsible for ensuring quality and compliance standards",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT036",
+        "Department_Name": "Clinical Research Department",
+        "Description": "Department conducting clinical research studies and trials",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT037",
+        "Department_Name": "Biomedical Engineering Department",
+        "Description": "Department specializing in biomedical equipment and technology",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT038",
+        "Department_Name": "Health Informatics Department",
+        "Description": "Department managing health information systems and technology",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT039",
+        "Department_Name": "Telemedicine Department",
+        "Description": "Department providing telemedicine services and remote care",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT040",
+        "Department_Name": "Artificial Intelligence Department",
+        "Description": "Department specializing in AI applications in healthcare",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT041",
+        "Department_Name": "Genetic Counseling Department",
+        "Description": "Department providing genetic counseling and testing services",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT042",
+        "Department_Name": "Sleep Medicine Department",
+        "Description": "Department specializing in sleep disorders and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT043",
+        "Department_Name": "Sports Medicine Department",
+        "Description": "Department specializing in sports-related injuries and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT044",
+        "Department_Name": "Geriatrics Department",
+        "Description": "Department specializing in care for elderly patients",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT045",
+        "Department_Name": "Forensic Medicine Department",
+        "Description": "Department specializing in forensic examinations and analysis",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT046",
+        "Department_Name": "Integrative Medicine Department",
+        "Description": "Department integrating conventional and alternative medicine",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT047",
+        "Department_Name": "Regenerative Medicine Department",
+        "Description": "Department specializing in regenerative therapies and treatments",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT048",
+        "Department_Name": "Travel Medicine Department",
+        "Description": "Department specializing in travel-related health issues and vaccinations",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Department_ID": "DEPT049",
+        "Department_Name": "Pain Medicine Department",
+        "Description": "Department specializing in pain management and treatment",
+        "hospital_id": "HOSP001"
+    }
+]

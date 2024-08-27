@@ -1,0 +1,128 @@
+[
+    {
+        "Algorithm_Code": "DIAGNOSIS_001",
+        "Algorithm_ID": "AI001",
+        "Hash_Code": "46ED0CA406B55305E0283C447780D457",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "TREATMENT_PLAN_002",
+        "Algorithm_ID": "AI002",
+        "Hash_Code": "B1D19B9CF67EA4686F5B9CEC10B48CA1",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "PREVENTION_003",
+        "Algorithm_ID": "AI003",
+        "Hash_Code": "E750587AD69CD0834A6DD20CE933E0AA",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "MONITORING_004",
+        "Algorithm_ID": "AI004",
+        "Hash_Code": "19AA4EBB9A729ED2E693835A3D945668",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "IMAGE_ANALYSIS_005",
+        "Algorithm_ID": "AI005",
+        "Hash_Code": "395DAC538E9922E501C1DDCAFECD326B",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "PATIENT_PREDICTION_006",
+        "Algorithm_ID": "AI006",
+        "Hash_Code": "AEE0EBA89A750419F39820D4E6B2EE5D",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "DRUG_INTERACTION_007",
+        "Algorithm_ID": "AI007",
+        "Hash_Code": "D61C296A431F5D53688E9722DC74036F",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "SURGICAL_PLANNING_008",
+        "Algorithm_ID": "AI008",
+        "Hash_Code": "C03892B5F34DC502AC9B01DA366A2353",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "GENETIC_ANALYSIS_009",
+        "Algorithm_ID": "AI009",
+        "Hash_Code": "CD9AD4A1E7D57436D07E7F5A0FC897D3",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "HEALTH_RECOMMENDATION_010",
+        "Algorithm_ID": "AI010",
+        "Hash_Code": "2819E7015CB1C880BD21BCD1E42A9F20",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "MALWARE_DETECTION_001",
+        "Algorithm_ID": "CYB001",
+        "Hash_Code": "368BFC5DC43102619C10E1E66DDEEF26",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "INTRUSION_DETECTION_002",
+        "Algorithm_ID": "CYB002",
+        "Hash_Code": "B7C055883D1C0FCEC8D23B58A318FA12",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "VULNERABILITY_SCANNING_003",
+        "Algorithm_ID": "CYB003",
+        "Hash_Code": "38D1731EDB389988AB0715B373E67C9A",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "ANOMALY_DETECTION_004",
+        "Algorithm_ID": "CYB004",
+        "Hash_Code": "0E84F56EB18DCED434B141FB1A2CE822",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "LOG_ANALYSIS_005",
+        "Algorithm_ID": "CYB005",
+        "Hash_Code": "E42D47F35B42167243B73EF4419E0281",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "THREAT_INTELLIGENCE_006",
+        "Algorithm_ID": "CYB006",
+        "Hash_Code": "8E404B555C8D3C416DA84B3C96708572",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "USER_BEHAVIOR_ANALYSIS_007",
+        "Algorithm_ID": "CYB007",
+        "Hash_Code": "EFF36ABE912150096C5FBDAE7F267C87",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "RISK_ASSESSMENT_008",
+        "Algorithm_ID": "CYB008",
+        "Hash_Code": "4F7B7E502EECFA9B4B5756C1C74F869C",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "INCIDENT_RESPONSE_009",
+        "Algorithm_ID": "CYB009",
+        "Hash_Code": "9C10A2DC715A0663329A309280377849",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": "SECURITY_AUDITING_010",
+        "Algorithm_ID": "CYB010",
+        "Hash_Code": "5F3B2BCCF953371B1F2498B918866760",
+        "hospital_id": "HOSP001"
+    },
+    {
+        "Algorithm_Code": null,
+        "Algorithm_ID": null,
+        "Hash_Code": null,
+        "hospital_id": null
+    }
+]

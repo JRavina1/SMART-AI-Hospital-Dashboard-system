@@ -1,0 +1,51 @@
+Staff_ID,First_Name,Last_Name,Gender,Date_of_Birth,Phone_Number,Address,Department_ID,Position,Qualifications,Joining_Date,Salary,Status,Supervisor_ID,Email,Password,Password_Hash
+STF001,John,Doe,Male,1985-03-12,020 1234 5678,"London, UK",DEPT001,Doctor,"MD, PhD",2020-01-01,100000.0,Active,STF001,john.doe@smartaihospital.com,q2oFpUeR,F958ECB0FEF0BD4B41B36063FEFD4581
+STF002,Jane,Smith,Female,1988-08-25,020 1234 5678,"London, UK",DEPT002,Nurse,"RN, BSN",2019-05-15,75000.0,Active,,jane.smith@smartaihospital.com,a6sHgRtY,825933A336C5F310801325C4F9D05B8E
+STF003,David,Johnson,Male,1990-12-03,020 1234 5678,"London, UK",DEPT003,Technician,Certified Technician,2018-10-20,60000.0,Active,,david.johnson@smartaihospital.com,d1kNeOwX,77FAD13B636829375FCCD031AED552E1
+STF004,Emily,Brown,Female,1987-09-18,020 1234 5678,"London, UK",DEPT004,Nurse,"RN, BSN",2020-03-05,80000.0,Active,,emily.brown@smartaihospital.com,p4sSw0rD,3577E040A3620077E10A62BA0FC8E718
+STF005,Michael,Johnson,Male,1992-04-28,020 1234 5678,"London, UK",DEPT005,Doctor,MD,2019-07-10,120000.0,Active,,michael.johnson@smartaihospital.com,sEcUr3P@ss,6CB1A09354195905FB8B059D35C5A03D
+STF006,Sarah,Williams,Female,1989-11-05,020 1234 5678,"London, UK",DEPT006,Technician,Certified Technician,2021-01-20,70000.0,Active,,sarah.williams@smartaihospital.com,d1ff1CultPa$$,FD7A1B0FE2AF55694593A2C5C89268F4
+STF007,Matthew,Anderson,Male,1986-07-15,020 1234 5678,"London, UK",DEPT007,Nurse,"RN, BSN",2018-11-30,75000.0,Active,,matthew.anderson@smartaihospital.com,MyP@ssw0rd,8E22B16443B0DF7B434B5308CCBF5DD4
+STF008,Oliver,Brown,Male,1984-10-22,020 1234 5678,"London, UK",DEPT008,Nurse,"RN, BSN",2019-01-15,76000.0,Active,,oliver.brown@smartaihospital.com,Passw0rd!,DFB403D0403368ABEB75B1211989528E
+STF009,Amelia,Jones,Female,1995-03-17,020 1234 5678,"London, UK",DEPT009,Doctor,"MD, PhD",2021-02-28,115000.0,Active,,amelia.jones@smartaihospital.com,Amelia@123,D9F9B04AFBD3E6E9C81ED83113857276
+STF010,Ethan,Davis,Male,1983-07-09,020 1234 5678,"London, UK",DEPT010,Nurse,"RN, BSN",2018-05-20,73000.0,Active,,ethan.davis@smartaihospital.com,EthanDavis!,F9F87450422CE1F82F133397F4B5CFAB
+STF011,Emily,Johnson,Female,1987-09-18,020 1234 5678,"London, UK",DEPT004,Nurse,"RN, BSN",2020-03-05,80000.0,Active,,emily.johnson@smartaihospital.com,p4sSw0rD,D51A8E2F65BDA73DE69C27AFD7F1456A
+STF012,Michael,Smith,Male,1992-04-28,020 1234 5678,"London, UK",DEPT005,Doctor,MD,2019-07-10,120000.0,Active,,michael.smith@smartaihospital.com,sEcUr3P@ss,CA7AA4FF661952DAC83117DD71D0A166
+STF013,Sarah,Brown,Female,1989-11-05,020 1234 5678,"London, UK",DEPT006,Technician,Certified Technician,2021-01-20,70000.0,Active,STF013,sarah.brown@smartaihospital.com,d1ff1CultPa$$,86E2AE3B0EF144316A5E569DA7214C11
+STF014,Matthew,Taylor,Male,1986-07-15,020 1234 5678,"London, UK",DEPT007,Nurse,"RN, BSN",2018-11-30,75000.0,Active,,matthew.taylor@smartaihospital.com,MyP@ssw0rd,90D29ADBF6B60AFE08FCA9765C2B0CB1
+STF015,Emma,Anderson,Female,1990-05-22,020 1234 5678,"London, UK",DEPT008,Doctor,"MD, PhD",2020-09-15,110000.0,Active,STF015,emma.anderson@smartaihospital.com,Passw0rd!,5340AFAAD00171076D02FEECED101564
+STF016,David,Wilson,Male,1988-12-10,020 1234 5678,"London, UK",DEPT009,Nurse,"RN, BSN",2019-03-25,78000.0,Active,,david.wilson@smartaihospital.com,SecurePa$$,C035311CB92016F5E8569F44589AFD4A
+STF017,Olivia,Martinez,Female,1993-08-31,020 1234 5678,"London, UK",DEPT010,Technician,Certified Technician,2021-06-05,72000.0,Active,,olivia.martinez@smartaihospital.com,Pa$$word123,88CDEE2AA812ABFC380BA69F3772287B
+STF018,James,Garcia,Male,1985-04-14,020 1234 5678,"London, UK",DEPT011,Doctor,"MD, PhD",2018-10-08,105000.0,Active,,james.garcia@smartaihospital.com,Password123!,47DB6D208C97DAC14FBCA85B6AC29674
+STF019,Sophia,Rodriguez,Female,1991-11-07,020 1234 5678,"London, UK",DEPT012,Nurse,"RN, BSN",2020-02-20,79000.0,Active,,sophia.rodriguez@smartaihospital.com,Pa$$w0rd!,6804D093CF70CDB2FD787DF4D8B3C422
+STF020,Benjamin,Hernandez,Male,1989-01-29,020 1234 5678,"London, UK",DEPT013,Technician,Certified Technician,2019-08-12,69000.0,Active,,benjamin.hernandez@smartaihospital.com,Secure123,4205E6E1485DAFE9DCDD4BBACB964BB7
+STF021,Evelyn,Lopez,Female,1994-06-12,020 1234 5678,"London, UK",DEPT014,Doctor,MD,2021-03-18,115000.0,Active,,evelyn.lopez@smartaihospital.com,EvelynL0pez,D94CD260D22A87C2FCF3281BB75D1819
+STF022,William,Gonzalez,Male,1987-12-04,020 1234 5678,"London, UK",DEPT015,Nurse,"RN, BSN",2020-04-29,76000.0,Active,STF022,william.gonzalez@smartaihospital.com,G0nz@lez#,428A00BD8DDFA845E19E13234C2CC657
+STF023,Mia,Perez,Female,1990-10-19,020 1234 5678,"London, UK",DEPT016,Technician,Certified Technician,2019-07-05,70000.0,Active,,mia.perez@smartaihospital.com,MiaPerez!,D3EC8A5C6A7CED5C1A22A94CE72E86EC
+STF024,Alexander,Martinez,Male,1988-05-27,020 1234 5678,"London, UK",DEPT017,Doctor,"MD, PhD",2018-11-12,105000.0,Active,,alexander.martinez@smartaihospital.com,Mart1nez@,49C4A7E7B076C8DCDADE23F0541D79E7
+STF025,Ava,Garcia,Female,1992-08-08,020 1234 5678,"London, UK",DEPT018,Nurse,"RN, BSN",2020-09-30,78000.0,Active,,ava.garcia@smartaihospital.com,Av@G@rc1@,1290998C9F68A4E03ECB118263161D33
+STF026,Liam,Hernandez,Male,1985-03-30,020 1234 5678,"London, UK",DEPT019,Technician,Certified Technician,2021-02-15,72000.0,Active,,liam.hernandez@smartaihospital.com,H3rn@nd3z,E8A7CD0A69FC842691C71B6294720142
+STF027,Harper,Rodriguez,Female,1993-11-14,020 1234 5678,"London, UK",DEPT020,Doctor,MD,2019-12-20,120000.0,Active,,harper.rodriguez@smartaihospital.com,R0dr1gu3z@,8DB9873E7368E460BA017C3EB121E6A1
+STF028,Oliver,Lopez,Male,1986-06-02,020 1234 5678,"London, UK",DEPT021,Nurse,"RN, BSN",2018-08-10,75000.0,Active,,oliver.lopez@smartaihospital.com,L0pezOl1ver,48F15587D3EC8BEC1F8EA31666853913
+STF029,Charlotte,Gonzalez,Female,1989-09-09,020 1234 5678,"London, UK",DEPT022,Technician,Certified Technician,2020-06-25,69000.0,Active,,charlotte.gonzalez@smartaihospital.com,G0nz@lezC#,D73B13D5C5DBE6653D4E422A6DD2E622
+STF030,Henry,Perez,Male,1984-12-28,020 1234 5678,"London, UK",DEPT023,Doctor,"MD, PhD",2019-05-05,110000.0,Active,,henry.perez@smartaihospital.com,PerezHenry,2FAB0B8C197282EAE155073F2EA114F9
+STF031,Amelia,Martinez,Female,1991-03-15,020 1234 5678,"London, UK",DEPT024,Nurse,"RN, BSN",2020-08-12,76000.0,Active,,amelia.martinez@smartaihospital.com,M@rt1nezA,C441FE0D2697DCF2F8E9B4B2A0141973
+STF032,Daniel,Garcia,Male,1988-11-22,020 1234 5678,"London, UK",DEPT025,Technician,Certified Technician,2019-02-25,70000.0,Active,,daniel.garcia@smartaihospital.com,G@rc1aD@n,269A5178B3C0C1B35C48D5DF9EF3ABF1
+STF033,Ella,Hernandez,Female,1992-07-07,020 1234 5678,"London, UK",DEPT026,Doctor,MD,2021-04-30,105000.0,Active,,ella.hernandez@smartaihospital.com,H3rn@nd3zE,BC8EAA6FFD4AE158B2CD7147D1F3B565
+STF034,Logan,Rodriguez,Male,1985-02-19,020 1234 5678,"London, UK",DEPT027,Nurse,"RN, BSN",2018-10-08,78000.0,Active,,logan.rodriguez@smartaihospital.com,R0dr1gu3zL,1A8E00539AA4236E572F48940C51ADE5
+STF035,Avery,Lopez,Female,1990-09-18,020 1234 5678,"London, UK",DEPT028,Technician,Certified Technician,2020-12-15,72000.0,Active,,avery.lopez@smartaihospital.com,L0pezAv3ry,9C69EEFDF2919D3E317ECB34DCD4A962
+STF036,Mason,Gonzalez,Male,1987-04-27,020 1234 5678,"London, UK",DEPT029,Doctor,"MD, PhD",2019-07-20,120000.0,Active,,mason.gonzalez@smartaihospital.com,G0nz@lezMason,24B4A41D7357BC0E572F1930BBD87546
+STF037,Sophia,Perez,Female,1993-12-14,020 1234 5678,"London, UK",DEPT030,Nurse,"RN, BSN",2020-03-05,75000.0,Active,,sophia.perez@smartaihospital.com,P3rezSoph1a,F85E8FFF834B3262FEE21C8FE55E544F
+STF038,Logan,Hernandez,Male,1986-06-22,020 1234 5678,"London, UK",DEPT031,Technician,Certified Technician,2018-11-30,69000.0,Active,,logan.hernandez@smartaihospital.com,H3rn@nd3zL0gan,BE77270922956EF96B38A08285E927BD
+STF039,Mia,Rodriguez,Female,1991-09-29,020 1234 5678,"London, UK",DEPT032,Doctor,MD,2020-04-29,105000.0,Active,,mia.rodriguez@smartaihospital.com,R0dr1gu3zM1a,C75E5289FA1626D62304B9D306472B9A
+STF040,Elijah,Lopez,Male,1985-04-08,020 1234 5678,"London, UK",DEPT033,Nurse,"RN, BSN",2019-08-10,78000.0,Active,,elijah.lopez@smartaihospital.com,L0pezElijah,A4C839E5CB1F2DA988BA309738E7F5B7
+STF041,Charlotte,Gonzalez,Female,1990-11-12,020 1234 5678,"London, UK",DEPT034,Technician,Certified Technician,2021-01-15,72000.0,Active,,charlotte.gonzalez1@smartaihospital.com,G0nz@lezCharl0tte,84165DD90A24D2922B88EEA79C3680E0
+STF042,Oliver,Perez,Male,1987-06-28,020 1234 5678,"London, UK",DEPT035,Doctor,"MD, PhD",2019-09-20,120000.0,Active,STF042,oliver.perez1@smartaihospital.com,P3rezOl1ver,45E9BD776DF414F3DE695E208A9C384B
+STF043,Aurora,Hernandez,Female,1993-01-17,020 1234 5678,"London, UK",DEPT036,Nurse,"RN, BSN",2020-04-05,75000.0,Active,,aurora.hernandez1@smartaihospital.com,H3rn@nd3zAur0ra,E454B0AFE5AA9535B24763B82D697FF4
+STF044,Henry,Rodriguez,Male,1986-08-22,020 1234 5678,"London, UK",DEPT037,Technician,Certified Technician,2018-12-30,69000.0,Active,,henry.rodriguez1@smartaihospital.com,R0dr1gu3zHenry,B03CB466EE75AE6790725204475D1691
+STF045,Amelia,Lopez,Female,1991-02-19,020 1234 5678,"London, UK",DEPT038,Doctor,MD,2020-05-12,105000.0,Active,,amelia.lopez1@smartaihospital.com,L0pezAm3lia,2D438CC29587A51363F386259EE66EDE
+STF046,Carter,Martinez,Male,1985-05-08,020 1234 5678,"London, UK",DEPT039,Nurse,"RN, BSN",2019-09-10,78000.0,Active,,carter.martinez1@smartaihospital.com,M@rt1nezCarter,3DDE34E43C854B52BE831AA91C96DE23
+STF047,Scarlett,Garcia,Female,1990-10-25,020 1234 5678,"London, UK",DEPT040,Technician,Certified Technician,2020-02-25,72000.0,Active,,scarlett.garcia1@smartaihospital.com,G@rc1aScar1ett,BE52D9DC5F17B745B56356472EFAEE76
+STF048,James,Rodriguez,Male,1987-12-21,020 1234 5678,"London, UK",DEPT041,Doctor,"MD, PhD",2019-05-15,120000.0,Active,,james.rodriguez1@smartaihospital.com,R0dr1gu3zJam3s,75D2C202528751D12A25D8385DD9247A
+STF049,Hazel,Hernandez,Female,1993-06-18,020 1234 5678,"London, UK",DEPT042,Nurse,"RN, BSN",2020-09-20,75000.0,Active,,hazel.hernandez1@smartaihospital.com,H3rn@nd3zHaz3l,6EAD384A8207994EB44215E196ACC9FD
+STF050,Ethan,Lopez,Male,1986-11-15,020 1234 5678,"London, UK",DEPT043,Technician,Certified Technician,2019-12-12,69000.0,Active,,ethan.lopez1@smartaihospital.com,L0pezEthan,639953D19198190DB4487CF0E15908E5

@@ -1,0 +1,152 @@
+[
+    {
+        "Billing_Details": "Consultation fee: $100.00, Lab tests: $50.00",
+        "Due_Date": "2024-04-15",
+        "Invoice_Date": "2024-03-15",
+        "Invoice_ID": "INV001",
+        "Patient_ID": "PID001",
+        "Payment_Method": "Credit Card",
+        "Payment_Status": "Pending",
+        "Total_Amount": 150.0
+    },
+    {
+        "Billing_Details": "Surgery fee: $200.00",
+        "Due_Date": "2024-03-20",
+        "Invoice_Date": "2024-03-20",
+        "Invoice_ID": "INV002",
+        "Patient_ID": "PID002",
+        "Payment_Method": "Cash",
+        "Payment_Status": "Paid",
+        "Total_Amount": 200.0
+    },
+    {
+        "Billing_Details": "Medication: $75.00",
+        "Due_Date": "2024-04-25",
+        "Invoice_Date": "2024-03-25",
+        "Invoice_ID": "INV003",
+        "Patient_ID": "PID003",
+        "Payment_Method": "Insurance",
+        "Payment_Status": "Pending",
+        "Total_Amount": 75.0
+    },
+    {
+        "Billing_Details": "Consultation fee: $80.00, Lab tests: $40.00",
+        "Due_Date": "2024-05-01",
+        "Invoice_Date": "2024-04-01",
+        "Invoice_ID": "INV004",
+        "Patient_ID": "PID004",
+        "Payment_Method": "Credit Card",
+        "Payment_Status": "Pending",
+        "Total_Amount": 120.0
+    },
+    {
+        "Billing_Details": "Therapy session: $90.00",
+        "Due_Date": "2024-05-05",
+        "Invoice_Date": "2024-04-05",
+        "Invoice_ID": "INV005",
+        "Patient_ID": "PID005",
+        "Payment_Method": "Cash",
+        "Payment_Status": "Pending",
+        "Total_Amount": 90.0
+    },
+    {
+        "Billing_Details": "Surgery fee: $180.00",
+        "Due_Date": "2024-04-10",
+        "Invoice_Date": "2024-04-10",
+        "Invoice_ID": "INV006",
+        "Patient_ID": "PID006",
+        "Payment_Method": "Insurance",
+        "Payment_Status": "Paid",
+        "Total_Amount": 180.0
+    },
+    {
+        "Billing_Details": "Emergency room visit: $200.00",
+        "Due_Date": "2024-05-15",
+        "Invoice_Date": "2024-04-15",
+        "Invoice_ID": "INV007",
+        "Patient_ID": "PID007",
+        "Payment_Method": "Cash",
+        "Payment_Status": "Pending",
+        "Total_Amount": 200.0
+    },
+    {
+        "Billing_Details": "Medical supplies: $150.00",
+        "Due_Date": "2024-05-20",
+        "Invoice_Date": "2024-04-20",
+        "Invoice_ID": "INV008",
+        "Patient_ID": "PID008",
+        "Payment_Method": "Credit Card",
+        "Payment_Status": "Pending",
+        "Total_Amount": 150.0
+    },
+    {
+        "Billing_Details": "Surgery fee: $300.00",
+        "Due_Date": "2024-04-25",
+        "Invoice_Date": "2024-04-25",
+        "Invoice_ID": "INV009",
+        "Patient_ID": "PID009",
+        "Payment_Method": "Insurance",
+        "Payment_Status": "Paid",
+        "Total_Amount": 300.0
+    },
+    {
+        "Billing_Details": "Consultation fee: $250.00",
+        "Due_Date": "2024-06-01",
+        "Invoice_Date": "2024-05-01",
+        "Invoice_ID": "INV010",
+        "Patient_ID": "PID010",
+        "Payment_Method": "Cash",
+        "Payment_Status": "Pending",
+        "Total_Amount": 250.0
+    },
+    {
+        "Billing_Details": "Medication: $180.00",
+        "Due_Date": "2024-06-05",
+        "Invoice_Date": "2024-05-05",
+        "Invoice_ID": "INV011",
+        "Patient_ID": "PID011",
+        "Payment_Method": "Credit Card",
+        "Payment_Status": "Pending",
+        "Total_Amount": 180.0
+    },
+    {
+        "Billing_Details": "Lab tests: $320.00",
+        "Due_Date": "2024-05-10",
+        "Invoice_Date": "2024-05-10",
+        "Invoice_ID": "INV012",
+        "Patient_ID": "PID012",
+        "Payment_Method": "Insurance",
+        "Payment_Status": "Paid",
+        "Total_Amount": 320.0
+    },
+    {
+        "Billing_Details": "Consultation fee: $150.00",
+        "Due_Date": "2024-06-15",
+        "Invoice_Date": "2024-05-15",
+        "Invoice_ID": "INV013",
+        "Patient_ID": "PID013",
+        "Payment_Method": "Cash",
+        "Payment_Status": "Pending",
+        "Total_Amount": 150.0
+    },
+    {
+        "Billing_Details": "Medication: $200.00",
+        "Due_Date": "2024-06-20",
+        "Invoice_Date": "2024-05-20",
+        "Invoice_ID": "INV014",
+        "Patient_ID": "PID014",
+        "Payment_Method": "Credit Card",
+        "Payment_Status": "Pending",
+        "Total_Amount": 200.0
+    },
+    {
+        "Billing_Details": "Lab tests: $300.00",
+        "Due_Date": "2024-06-25",
+        "Invoice_Date": "2024-05-25",
+        "Invoice_ID": "INV015",
+        "Patient_ID": "PID015",
+        "Payment_Method": "Cash",
+        "Payment_Status": "Pending",
+        "Total_Amount": 300.0
+    }
+]

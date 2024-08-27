@@ -1,0 +1,50 @@
+Department_ID,Department_Name,Description,hospital_id
+DEPT001,IT Department,Information Technology Department,HOSP001
+DEPT002,Radiology Department,Department specializing in medical imaging and diagnostics,HOSP001
+DEPT003,Cardiology Department,Department specializing in heart-related disorders and treatments,HOSP001
+DEPT004,Neurology Department,Department specializing in nervous system disorders and treatments,HOSP001
+DEPT005,Oncology Department,Department specializing in cancer treatment and research,HOSP001
+DEPT006,Emergency Medicine Department,Department providing emergency medical care,HOSP001
+DEPT007,Pediatrics Department,Department specializing in medical care for children,HOSP001
+DEPT008,Orthopedics Department,Department specializing in musculoskeletal disorders and treatments,HOSP001
+DEPT009,Gastroenterology Department,Department specializing in digestive system disorders and treatments,HOSP001
+DEPT010,Dermatology Department,Department specializing in skin disorders and treatments,HOSP001
+DEPT011,Ophthalmology Department,Department specializing in eye disorders and treatments,HOSP001
+DEPT012,Urology Department,Department specializing in urinary tract disorders and treatments,HOSP001
+DEPT013,Psychiatry Department,Department specializing in mental health disorders and treatments,HOSP001
+DEPT014,Obstetrics and Gynecology Department,Department specializing in women's,HOSP001
+DEPT015,Pulmonology Department,Department specializing in respiratory system disorders and treatments,HOSP001
+DEPT016,Endocrinology Department,Department specializing in hormonal disorders and treatments,HOSP001
+DEPT017,Hematology Department,Department specializing in blood disorders and treatments,HOSP001
+DEPT018,Nephrology Department,Department specializing in kidney disorders and treatments,HOSP001
+DEPT019,Infectious Diseases Department,Department specializing in infectious diseases and treatments,HOSP001
+DEPT020,Allergy and Immunology Department,Department specializing in allergies and immune system disorders,HOSP001
+DEPT021,Rheumatology Department,Department specializing in rheumatic diseases and treatments,HOSP001
+DEPT022,Pathology Department,Department specializing in the study of diseases and diagnoses,HOSP001
+DEPT023,Anesthesiology Department,Department specializing in pain management and anesthesia,HOSP001
+DEPT024,Radiology Department,Department specializing in medical imaging and diagnostics,HOSP001
+DEPT025,Nuclear Medicine Department,Department specializing in nuclear medicine imaging and therapies,HOSP001
+DEPT026,Pain Management Department,Department specializing in chronic pain management,HOSP001
+DEPT027,Physical Therapy Department,Department providing physical therapy and rehabilitation services,HOSP001
+DEPT028,Occupational Therapy Department,Department providing occupational therapy services,HOSP001
+DEPT029,Speech Therapy Department,Department providing speech therapy services,HOSP001
+DEPT030,Dietetics Department,Department specializing in nutrition and dietary planning,HOSP001
+DEPT031,Pharmacy Department,Department providing pharmacy services and medication management,HOSP001
+DEPT032,Medical Social Work Department,Department providing social work services to patients,HOSP001
+DEPT033,Case Management Department,Department providing case management and coordination of care,HOSP001
+DEPT034,Hospital Administration Department,Department responsible for hospital administration and management,HOSP001
+DEPT035,Quality Assurance Department,Department responsible for ensuring quality and compliance standards,HOSP001
+DEPT036,Clinical Research Department,Department conducting clinical research studies and trials,HOSP001
+DEPT037,Biomedical Engineering Department,Department specializing in biomedical equipment and technology,HOSP001
+DEPT038,Health Informatics Department,Department managing health information systems and technology,HOSP001
+DEPT039,Telemedicine Department,Department providing telemedicine services and remote care,HOSP001
+DEPT040,Artificial Intelligence Department,Department specializing in AI applications in healthcare,HOSP001
+DEPT041,Genetic Counseling Department,Department providing genetic counseling and testing services,HOSP001
+DEPT042,Sleep Medicine Department,Department specializing in sleep disorders and treatments,HOSP001
+DEPT043,Sports Medicine Department,Department specializing in sports-related injuries and treatments,HOSP001
+DEPT044,Geriatrics Department,Department specializing in care for elderly patients,HOSP001
+DEPT045,Forensic Medicine Department,Department specializing in forensic examinations and analysis,HOSP001
+DEPT046,Integrative Medicine Department,Department integrating conventional and alternative medicine,HOSP001
+DEPT047,Regenerative Medicine Department,Department specializing in regenerative therapies and treatments,HOSP001
+DEPT048,Travel Medicine Department,Department specializing in travel-related health issues and vaccinations,HOSP001
+DEPT049,Pain Medicine Department,Department specializing in pain management and treatment,HOSP001

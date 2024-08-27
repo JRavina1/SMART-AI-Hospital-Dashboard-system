@@ -1,0 +1,16 @@
+Invoice_ID,Patient_ID,Invoice_Date,Total_Amount,Payment_Status,Payment_Method,Due_Date,Billing_Details
+INV001,PID001,2024-03-15,150.0,Pending,Credit Card,2024-04-15,"Consultation fee: $100.00, Lab tests: $50.00"
+INV002,PID002,2024-03-20,200.0,Paid,Cash,2024-03-20,Surgery fee: $200.00
+INV003,PID003,2024-03-25,75.0,Pending,Insurance,2024-04-25,Medication: $75.00
+INV004,PID004,2024-04-01,120.0,Pending,Credit Card,2024-05-01,"Consultation fee: $80.00, Lab tests: $40.00"
+INV005,PID005,2024-04-05,90.0,Pending,Cash,2024-05-05,Therapy session: $90.00
+INV006,PID006,2024-04-10,180.0,Paid,Insurance,2024-04-10,Surgery fee: $180.00
+INV007,PID007,2024-04-15,200.0,Pending,Cash,2024-05-15,Emergency room visit: $200.00
+INV008,PID008,2024-04-20,150.0,Pending,Credit Card,2024-05-20,Medical supplies: $150.00
+INV009,PID009,2024-04-25,300.0,Paid,Insurance,2024-04-25,Surgery fee: $300.00
+INV010,PID010,2024-05-01,250.0,Pending,Cash,2024-06-01,Consultation fee: $250.00
+INV011,PID011,2024-05-05,180.0,Pending,Credit Card,2024-06-05,Medication: $180.00
+INV012,PID012,2024-05-10,320.0,Paid,Insurance,2024-05-10,Lab tests: $320.00
+INV013,PID013,2024-05-15,150.0,Pending,Cash,2024-06-15,Consultation fee: $150.00
+INV014,PID014,2024-05-20,200.0,Pending,Credit Card,2024-06-20,Medication: $200.00
+INV015,PID015,2024-05-25,300.0,Pending,Cash,2024-06-25,Lab tests: $300.00

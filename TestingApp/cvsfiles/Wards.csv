@@ -1,0 +1,17 @@
+Ward_ID,Ward_Name,Department_ID,Capacity,Current_Patients,Location,Floor,Ward_Type,Status,Patient_ID,Staff_ID,Admission_Date
+WNID001,General Medicine Ward,DEPT001,30,15,East Wing,3,Medical,Active,PID001,STF001,2023-10-15
+WNID002,Surgical Ward,DEPT002,25,10,West Wing,2,Surgical,Active,PID002,STF002,2023-09-20
+WNID003,Pediatrics Ward,DEPT003,20,5,North Wing,1,Pediatrics,Active,PID003,STF003,2023-08-25
+WNID004,Intensive Care Unit (ICU),DEPT004,15,8,South Wing,4,ICU,Active,PID004,STF003,2023-11-05
+WNID005,Orthopedic Ward,DEPT002,20,12,West Wing,3,Orthopedic,Active,PID005,STF004,2023-12-10
+WNID006,Cardiology Ward,DEPT001,25,18,East Wing,2,Cardiology,Active,PID006,STF005,2023-11-15
+WNID007,Neurology Ward,DEPT001,18,10,East Wing,4,Neurology,Active,PID007,STF006,2023-10-20
+WNID008,Oncology Ward,DEPT003,15,8,North Wing,2,Oncology,Active,PID008,STF007,2023-09-25
+WNID009,Gynecology Ward,DEPT002,20,15,West Wing,1,Gynecology,Active,PID009,STF008,2023-08-30
+WNID010,ENT Ward,DEPT001,15,9,East Wing,3,ENT,Active,PID010,STF009,2023-07-10
+WNID011,Psychiatry Ward,DEPT004,12,6,South Wing,2,Psychiatry,Active,PID011,STF010,2023-06-15
+WNID012,Dermatology Ward,DEPT001,18,12,East Wing,2,Dermatology,Active,PID021,STF011,2023-05-20
+WNID013,Cardiology Ward,DEPT003,25,18,North Wing,3,Cardiology,Active,PID016,STF012,2023-04-25
+WNID014,Neurology Ward,DEPT004,20,14,South Wing,1,Neurology,Active,PID022,STF013,2023-03-20
+WNID015,Oncology Ward,DEPT002,22,20,West Wing,4,Oncology,Active,PID024,STF014,2023-02-15
+WNID016,Orthopedics Ward,DEPT001,18,13,East Wing,1,Orthopedics,Active,PID028,STF015,2023-01-10
